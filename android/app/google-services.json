@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053692249231",
+    "project_id": "social-media-3f925",
+    "storage_bucket": "social-media-3f925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053692249231:android:4a67997828f63985765cfa",
+        "android_client_info": {
+          "package_name": "com.keval.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053692249231-f6bh7m2bng3o182bi2dq1jgo8h3pttb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keval.socialmedia",
+            "certificate_hash": "060984dde40c090ada0f71d3ab3f871723b8d47f"
+          }
+        },
+        {
+          "client_id": "1053692249231-abf76k4uktsdqh30hpajtjqe4o9gkf5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ4FyX5vY62EyswSFc5T1hP42W5VSiCu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053692249231-abf76k4uktsdqh30hpajtjqe4o9gkf5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

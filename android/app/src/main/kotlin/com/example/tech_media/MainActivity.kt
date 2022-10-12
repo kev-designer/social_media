@@ -1,4 +1,4 @@
-package com.example.tech_media
+package com.keval.socialmedia
 
 import io.flutter.embedding.android.FlutterActivity
 
